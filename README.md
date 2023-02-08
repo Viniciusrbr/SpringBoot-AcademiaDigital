@@ -1,5 +1,10 @@
 <h1>API RESTful desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica</h1>
 
+
+![Diagrama](imgs/DiagramaERBD.png)
+![Diagrama](imgs/FluxoBackEnd.png)
+
+
 <h2>🛠 Tecnologias Utilizadas</h2>
 
 <ul>
